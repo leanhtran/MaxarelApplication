@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323270401877",
+    "firebase_url": "https://maxarel-fb.firebaseio.com",
+    "project_id": "maxarel-fb",
+    "storage_bucket": "maxarel-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323270401877:android:1eb7c26f154f2ce42559dc",
+        "android_client_info": {
+          "package_name": "maxarel.ver1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323270401877-d4qh4ahr1mj06r3av0mr0atd6eckkahj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBmF1zi-wE5ACXsSIQgzJE5WPfA_aBKSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323270401877-d4qh4ahr1mj06r3av0mr0atd6eckkahj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
